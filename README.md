@@ -3,9 +3,9 @@
 </code>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Template?logo=github" hspace="5">
-  <img src="https://img.shields.io/github/license/IshaanOhri/Template?" hspace="5">
-  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Template?logo=git">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Docker-Network?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/Docker-Network" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Docker-Network?logo=git">
 </div>
 
 <br>
@@ -13,8 +13,6 @@
 <p align="center">
   This is a template. Add description here.
 </p>
-
-<br>
 
 ## Contributing
 
@@ -26,20 +24,13 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<br>
-
 ## License
 The project is distributed under the MIT License. See [LICENSE](Add link to LICENSE) for more information.
 
-<br>
-
 ## Tech Stacks / Tools used
 <p>
-  
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
