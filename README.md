@@ -63,9 +63,3 @@ The project is distributed under the MIT License. See [LICENSE](Add link to LICE
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
   </a>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//ishaan.gif" width="300">
-  </a>
-</p>
