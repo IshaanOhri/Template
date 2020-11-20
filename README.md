@@ -27,12 +27,12 @@ Any contributions you make are **greatly appreciated**.
 ## License
 The project is distributed under the MIT License. See [LICENSE](Add link to LICENSE) for more information.
 
+## Author
+- [Ishaan Ohri](https://github.com/IshaanOhri)
+
 ## Tech Stacks / Tools used
 <p>
 </p>
-
-## Author
-- [Ishaan Ohri](https://github.com/IshaanOhri)
 
 <br>
 
