@@ -31,6 +31,9 @@ The project is distributed under the MIT License. See [LICENSE](Add link to LICE
 <p>
 </p>
 
+## Author
+- [Ishaan Ohri](https://github.com/IshaanOhri)
+
 <br>
 
 <p align="center">
