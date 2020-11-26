@@ -1,5 +1,6 @@
 <code>
-  <h1 align="center">Template</h1>
+  <h1 align="center">Title here</h1>
+  <h3 align="center">Tagline here</h3>
 </code>
 
 <div align="center">
@@ -11,8 +12,12 @@
 <br>
 
 <p align="center">
-  This is a template. Add description here.
+  Add description here
 </p>
+
+<br>
+
+Add mockup links here
 
 ## Contributing
 
@@ -25,13 +30,17 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## License
-The project is distributed under the MIT License. See [LICENSE](Add link to LICENSE) for more information.
+The project is distributed under the MIT License. See [LICENSE](Add path to License here) for more information.
 
 ## Author
 - [Ishaan Ohri](https://github.com/IshaanOhri)
 
 ## Tech Stacks / Tools used
+
 <p>
+<p>
+  Add links here
+</p>
 </p>
 
 <br>
